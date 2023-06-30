@@ -9,8 +9,18 @@ Welcome to my Git Profile! I'm a passionate developer and tech enthusiast who lo
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="	https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/>
 
+<h2>💻Projects</h2>
+1.Drowsiness Detection System For Road Safety <a href="https://github.com/Norah-Martin/miniproject" target="_new">view</a>
+
+2.Joboy App <a href="https://github.com/Norah-Martin/flutter_Project" target="_new">view</a>
+
+3.Handwriting Recignition System <a href="https://github.com/Norah-Martin/First-Project" target="_new">view</a>
+
+
+
 <h2>🤝 Let's Connect</h2>
 LinkedIn:<a href="https://www.linkedin.com/in/norah-martin-n20011215/" target="_new">Norah_Martin</a>
+
 
 <h2>🌱 Currently Exploring</h2>
 <p>I'm always eager to expand my knowledge and explore new technologies. Currently, I'm diving deeper into:
