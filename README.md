@@ -14,7 +14,9 @@ Welcome to my Git Profile! I'm a passionate developer and tech enthusiast who lo
 
 2.Joboy App <a href="https://github.com/Norah-Martin/flutter_Project" target="_new">view</a>
 
-3.Handwriting Recignition System <a href="https://github.com/Norah-Martin/First-Project" target="_new">view</a>
+3.Mask Detection<a href="https://github.com/Norah-Martin/maskdetection" target="_new">view</a>
+
+4.Handwriting Recignition System <a href="https://github.com/Norah-Martin/First-Project" target="_new">view</a>
 
 
 
